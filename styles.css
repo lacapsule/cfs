@@ -37,7 +37,7 @@ header:after {
 }
 main {
     display: block;
-    background: rgb(0, 0, 0);
+    background: #fffff3;
     width: 100%;
     height: 100%;
     top: 10vh;
